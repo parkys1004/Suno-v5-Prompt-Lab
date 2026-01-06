@@ -1,0 +1,5 @@
+{
+  "name": "Suno v5 Prompt Lab",
+  "description": "An advanced AI-powered prompt engineering studio for Suno v5 music generation. Craft, refine, and optimize musical prompts with ease using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
